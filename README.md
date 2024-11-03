@@ -1,4 +1,4 @@
-🌟 Hey! I’m Omkar Kashmire, exploring the realms of cybersecurity, Python, and IT Fundamentals.
+🌟 Hey! I’m Omkar Kashmire, exploring the realms of cybersecurity.
 
 🚀 **Current Focus:**
 - Developing skills in Python for cybersecurity applications
